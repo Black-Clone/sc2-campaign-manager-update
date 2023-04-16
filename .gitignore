@@ -1,0 +1,5 @@
+.env
+dist/
+bundle.js
+*.swp[a-z]
+node_modules
